@@ -5,7 +5,7 @@ def my_collect(arg)
     output << yield(arg[i])
     i += 1
   end
-  puts output
+  output
 end
 #
 # array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
