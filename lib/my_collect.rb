@@ -12,7 +12,4 @@ end
 # my_collect(array) do |name|
 #   name.split(" ").first
 # end
-collection = ['ruby', 'javascript', 'python', 'objective-c']
-my_collect(collection) do |lang|
-  lang.upcase
-end
+ß
